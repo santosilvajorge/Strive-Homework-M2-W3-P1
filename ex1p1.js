@@ -31,14 +31,35 @@ ASSIGNMENT RULES
  It should return the sum of those two values, but if the two values are the same then it should return their sum multiplied by 3.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* function crazySum(a, b) {
+    if (a === b){
+        return (a + b) * 3
+    } else {
+        return (a + b)
+    }
+} */
+
+
+
+
 
 /* EXERCISE 3
  Write a function called "crazyDiff" that computes the absolute difference between a given number and 19.
  It should return triple their absolute difference if the given number is greater than 19.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* function crazyDiff(a, b) {
+    if (a > b) {
+        console.log((a - b) * 3)
+        }
+    }
+
+crazyDiff(22, 19); //exemple
+ */
+
+
+
+
 
 /* EXERCISE 4
  Write a function called "boundary" which accept an integer parameter n and returns true if n is within 20 and 100 (included) or if n it's equal to 400.
