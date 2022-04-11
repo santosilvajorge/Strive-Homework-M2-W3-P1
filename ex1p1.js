@@ -80,7 +80,18 @@ crazyDiff(22, 19); //exemple
  It should add the word "Strive" in front of the given string, but if the given string already begins with "Strive", then it should just return the original string.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* function sricify() {
+    if (scricify.includes("Strive")){
+    return string;
+    } else {
+    return ("Strive" + string);
+    }
+}
+ */
+
+
+
+
 
 /* EXERCISE 6
  Write a function called "check3and7" which accepts a positive number as a parameter and checks if it is a multiple of 3 or a multiple of 7.
