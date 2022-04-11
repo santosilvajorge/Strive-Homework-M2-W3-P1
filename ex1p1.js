@@ -98,7 +98,18 @@ crazyDiff(22, 19); //exemple
  HINT: Modulus Operator
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* function check3and7(element){
+    if((element % 3 == 0) || (element % 7 == 0)){
+        console.log("It's a mmultiple of 3 or 7!")
+    } else {
+        console.log("It's not a mmultiple of 3 or 7!")
+    }
+}
+check3and7(33); */
+
+
+
+
 
 /* EXERCISE 7
  Write a function called "reverseString" which programmatically reverses a given string (es.: Strive => evirtS).
