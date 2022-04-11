@@ -115,7 +115,13 @@ check3and7(33); */
  Write a function called "reverseString" which programmatically reverses a given string (es.: Strive => evirtS).
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* function reverseString(){
+    return reverseString(reverseString());
+} */
+
+
+
+
 
 /* EXERCISE 8
  Write a function called "upperFirst" which capitalizes the first letter of each word of a given string passed as a parameter.
