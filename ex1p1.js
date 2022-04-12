@@ -127,7 +127,15 @@ check3and7(33); */
  Write a function called "upperFirst" which capitalizes the first letter of each word of a given string passed as a parameter.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* function upperFirst(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+  }
+  
+  console.log(upperFirst('strive'));  */
+
+
+
+
 
 /* EXERCISE 9
  Write a function called "cutString" which creates a new string without the first and last character of a given string passed as a parameter.
